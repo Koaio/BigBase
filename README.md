@@ -1,2 +1,2 @@
 # BigBase
-Une base de menu mod pour Grand Theft Auto V. Strictement à des fins éducatives.
+A mod menu base for Grand Theft Auto V. Strictly for educational purposes.
